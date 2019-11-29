@@ -1,0 +1,7 @@
+﻿[
+  {
+    "token": "TokenHere",
+    "commandPrefix": "mc!",
+    "GuildID":  "GUILDIDHERE"
+  }
+]

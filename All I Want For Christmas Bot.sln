@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "All I Want For Christmas Bot", "All I Want For Christmas Bot.csproj", "{697AEC2A-DF6E-4C7A-A17F-C10011676843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{697AEC2A-DF6E-4C7A-A17F-C10011676843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697AEC2A-DF6E-4C7A-A17F-C10011676843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697AEC2A-DF6E-4C7A-A17F-C10011676843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697AEC2A-DF6E-4C7A-A17F-C10011676843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3550EADE-AC8A-4036-92C0-D181DAA492A3}
+	EndGlobalSection
+EndGlobal

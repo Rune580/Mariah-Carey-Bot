@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <RootNamespace>All_I_Want_For_Christmas_Bot</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DSharpPlus" Version="4.0.0-nightly-00635" />
+    <PackageReference Include="DSharpPlus.CommandsNext" Version="4.0.0-nightly-00635" />
+    <PackageReference Include="DSharpPlus.Lavalink" Version="4.0.0-nightly-00635" />
+    <PackageReference Include="DSharpPlus.VoiceNext" Version="4.0.0-nightly-00635" />
+    <PackageReference Include="HSNXT.DSharpPlus.ModernEmbedBuilder" Version="3.0.198" />
+    <PackageReference Include="Lavalink4NET.DSharpPlus" Version="1.4.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="config.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
